@@ -1,1 +1,2 @@
-# token-imgur-api-python-discord
+Video tutorial:
+(https://www.youtube.com/watch?v=fQKHCASxd7Y)
